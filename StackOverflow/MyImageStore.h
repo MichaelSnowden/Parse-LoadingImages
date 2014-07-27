@@ -1,13 +1,13 @@
 //
-//  ViewController.h
+//  MyImageStore.h
 //  StackOverflow
 //
 //  Created by Michael Snowden on 7/27/14.
 //  Copyright (c) 2014 MichaelSnowden. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
-@interface ViewController : UIViewController
+@interface MyImageStore : NSObject
 
 @end
